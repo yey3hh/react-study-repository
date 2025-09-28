@@ -1,0 +1,13 @@
+.navbar .nav-link.active {
+    font-weight: bold;
+    color: red;
+}
+
+.login {
+  background-color: #FEB916;
+  color: beige;
+}
+
+.singup, .login {
+  border-radius: 40px;
+}
